@@ -1,0 +1,7 @@
+name: DeathWaypoints
+version: '${project.version}'
+main: spartandylan7.deathwaypoints.DeathWaypoints
+api-version: 1.19
+authors: [ Spartan_Dylan_7 ]
+description: Sends You A Message Of Your Coordinates When You Die.
+website: https://discord.com/invite/Z48gQ2sZWf
